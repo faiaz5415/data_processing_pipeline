@@ -1,4 +1,4 @@
-## 🎓 Student Score Processor
+## 🎓 Data Processing Pipeline (Student Score Processor)
 
 ```markdown
 # 🎓 Student Score Processor
