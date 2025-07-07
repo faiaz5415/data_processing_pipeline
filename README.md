@@ -1,4 +1,4 @@
-# 🎓 Student Score Processor
+# 🎓 Student Score Processor(Data Processing Pipeline)
 
 This Dart program processes a list of student data, demonstrating robust data manipulation using Dart's collection methods and null safety features. It's designed to take raw student information, transform it, filter based on criteria, and perform aggregations.
 
